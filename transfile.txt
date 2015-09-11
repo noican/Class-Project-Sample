@@ -1,0 +1,6 @@
+Income*a*PAYCHECK*1*
+Expense*b*FOOD*2*
+Income*3*PAYCHECK*3*
+Income*2*STOCK*4*
+Income*2*STOCK*4*
+Expense*4*FOOD*4*

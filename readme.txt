@@ -1,4 +1,4 @@
-
+This file is just a staging file...
 REad File
 
 $handle = fopen("inputfile.txt", "r") or die("Unable to open file!");;
